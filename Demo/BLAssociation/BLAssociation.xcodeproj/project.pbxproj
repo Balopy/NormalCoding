@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F2DF38A238E96D600ECBA56 /* BLKVO.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F2DF389238E96D600ECBA56 /* BLKVO.m */; };
 		9FC33B2B23716DB8000694C5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FC33B2A23716DB8000694C5 /* AppDelegate.m */; };
 		9FC33B2E23716DB8000694C5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FC33B2D23716DB8000694C5 /* ViewController.m */; };
 		9FC33B3123716DB8000694C5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FC33B2F23716DB8000694C5 /* Main.storyboard */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9F2DF388238E96D600ECBA56 /* BLKVO.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BLKVO.h; sourceTree = "<group>"; };
+		9F2DF389238E96D600ECBA56 /* BLKVO.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BLKVO.m; sourceTree = "<group>"; };
 		9FC33B2623716DB8000694C5 /* BLAssociation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BLAssociation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FC33B2923716DB8000694C5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		9FC33B2A23716DB8000694C5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -111,6 +114,8 @@
 				9FC33B5D23716DD8000694C5 /* BLFather.m */,
 				9FC33B5C23716DD8000694C5 /* BLFather+Category.h */,
 				9FC33B5E23716DD8000694C5 /* BLFather+Category.m */,
+				9F2DF388238E96D600ECBA56 /* BLKVO.h */,
+				9F2DF389238E96D600ECBA56 /* BLKVO.m */,
 				9FC33B2923716DB8000694C5 /* AppDelegate.h */,
 				9FC33B2A23716DB8000694C5 /* AppDelegate.m */,
 				9FC33B2C23716DB8000694C5 /* ViewController.h */,
@@ -272,6 +277,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F2DF38A238E96D600ECBA56 /* BLKVO.m in Sources */,
 				9FC33B6023716DD8000694C5 /* BLFather+Category.m in Sources */,
 				9FC33B2E23716DB8000694C5 /* ViewController.m in Sources */,
 				9FC33B5F23716DD8000694C5 /* BLFather.m in Sources */,
